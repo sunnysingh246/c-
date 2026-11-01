@@ -31,9 +31,12 @@ int secondLargest(int n) {
 
 int main() {
 
-    int n = 58329;
+    int num;
+    cout << "Enter number to get 2nd largest digit in it: ";
+    cin >> num;
 
-    cout << secondLargest(n);
+    int result = secondLargest(num);
+    cout << result;
 
     return 0;
 }

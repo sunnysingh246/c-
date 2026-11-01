@@ -29,4 +29,6 @@ int main() {
     else {
         cout << "NOT amstrong number !!!";
     }
+
+    return 0;
 }

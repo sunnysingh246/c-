@@ -1,4 +1,4 @@
-//S=1^3+2^3+3^3+⋯+n^3
+//S=1^3+2^3+3^3+⋯+n^3 
 
 #include<iostream>
 using namespace std;

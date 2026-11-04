@@ -7,7 +7,7 @@ int main() {
         int diff = x - y;
 
         cout << "Sum: " << sum;
-        cout << "Difference: ";
+        cout << "\nDifference: " << diff;
         };
 
     calculate(10, 20);

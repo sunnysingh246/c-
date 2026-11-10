@@ -34,7 +34,7 @@ public:
     void withdraw(double amount) {
         if (amount > 0 && amount <= balance) {
             balance -= amount;
-            cout << "Withdwawl amount: " << amount;
+            cout << "Withdwawl amount: " << amount; 
         }
         else {
             cout << "Invalid withdrawn amount" << endl;
